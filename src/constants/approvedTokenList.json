@@ -1,0 +1,10 @@
+{
+    "0x849cf7e17Bc85CD2b1448ef41C733f1A9F157324": {
+        "symbol": "WETH",
+        "decimal": 18
+    },
+    "0xbd08A0670F25782345521f46b9D6b2210e2D8372": {
+        "symbol": "USDT",
+        "decimal": 18
+    }
+}

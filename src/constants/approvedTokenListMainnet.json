@@ -1,0 +1,278 @@
+{
+    "0xdac17f958d2ee523a2206206994597c13d831ec7": {
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimal": 6,
+        "pair": "0x0d4a11d5EEaaC28EC3F61d100daF4d40471f1852"
+    },
+    "0xfc979087305a826c2b2a0056cfaba50aad3e6439": {
+        "name": "DAFI Token",
+        "symbol": "DAFI",
+        "decimal": 18,
+        "pair": "0xcd4a2F72E3D646e8aDDAb74A68C2175d6A36B0E3"
+    },
+    "0x9813037ee2218799597d83d4a5b6f3b6778218d9": {
+        "name": "BONE SHIBASWAP",
+        "symbol": "BONE",
+        "decimal": 18,
+        "pair": "0xF7d31825946e7fD99eF07212d34B9Dad84C396b7"
+    },
+    "0x24da31e7bb182cb2cabfef1d88db19c2ae1f5572": {
+        "name": "SHIKOKU INU",
+        "symbol": "SHIK",
+        "decimal": 18,
+        "pair": "0x0B9f5cEf1EE41f8CCCaA8c3b4c922Ab406c980CC"
+    },
+    "0x8b937af714ac7e2129bd33d93641f52b665ca352": {
+        "name": "JizzRocket",
+        "symbol": "JIZZ",
+        "decimal": 18,
+        "pair": "0x05946AF9DA74499C8a0A2788402E7eEA789BBE9d"
+    },
+    "0x02ad335dd3ca11c18cebbbb583b9613b6289d75f": {
+        "name": "BPEGd Governance Token",
+        "symbol": "BPEG",
+        "decimal": 18,
+        "pair": "0x3acBe97A79d748011B24E6Df934fD72a98269bfc"
+    },
+    "0x02e7f808990638e9e67e1f00313037ede2362361": {
+        "name": "KiboShib",
+        "symbol": "KIBSHI",
+        "decimal": 18,
+        "pair": " 0xf22fdD2BE7c6dA9788e4941A6FfC78CA99d7B15c"
+    },
+    "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce": {
+        "name": "SHIBA INU",
+        "symbol": "SHIB",
+        "decimal": 18,
+        "pair": "0x811beEd0119b4AfCE20D2583EB608C6F7AF1954f"
+    },
+    "0xee4e100507a144e5c45af48d33491e3c8c6f0aa8": {
+        "name": "Old Crypto",
+        "symbol": "OC",
+        "decimal": 18,
+        "pair": "0x917313B75a68b9594A28D1210a24881510aDA571"
+    },
+    "0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b": {
+        "name": "Rally",
+        "symbol": "RLY",
+        "decimal": 18,
+        "pair": "0x27fD0857F0EF224097001E87e61026E39e1B04d1"
+    },
+    "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0": {
+        "name": "Matic Token",
+        "symbol": "MATIC",
+        "decimal": 18,
+        "pair": "0x819f3450dA6f110BA6Ea52195B3beaFa246062dE"
+    },
+    "0x1bbf25e71ec48b84d773809b4ba55b6f4be946fb": {
+        "name": "Vow",
+        "symbol": "VOW",
+        "decimal": 18,
+        "pair": "0x7FdEB46b3a0916630f36E886D675602b1007Fcbb"
+    },
+    "0xd13cfd3133239a3c73a9e535a5c4dadee36b395c": {
+        "name": "VAIOT Token",
+        "symbol": "VAI",
+        "decimal": 18,
+        "pair": "0xAF95D3a7a25F831DC2B9a6704554435957b51ec2"
+    },
+    "0x2a7e415c169ce3a580c6f374dc26f6aaad1eccfe": {
+        "name": "HACHI",
+        "symbol": "HACHI",
+        "decimal": 18,
+        "pair": "0x006Ab11E89e7246CB8c0F7BdAa8C2713374b1676"
+    },
+    "0xf411903cbc70a74d22900a5de66a2dda66507255": {
+        "name": "VERA",
+        "symbol": "VRA",
+        "decimal": 18,
+        "pair": "0x60031819a16266d896268cfEa5d5be0b6c2B5D75"
+    },
+    "0x02c3296c6eb50249f290ae596f2be9454bffadab": {
+        "name": "Rejuve Token",
+        "symbol": "RJV",
+        "decimal": 6,
+        "pair": "0x30e3270FD3d1589672e8da2F15c7076323C9Aa10"
+    },
+    "0x9e32b13ce7f2e80a01932b42553652e053d6ed8e": {
+        "name": "Metis Token",
+        "symbol": "Metis",
+        "decimal": 18,
+        "pair": "0xd03dffD02Db4B076e3eeD9272a6A243a23DE16e3"
+    },
+    "0x2bd0fb740e403b505a3146f9ac02df883fd5c3fc": {
+        "name": "K9",
+        "symbol": "K9",
+        "decimal": 18,
+        "pair": "0xEc223245A62d6AFCa048F8Edb9504A3b09ec85cB"
+    },
+    "0x31c2415c946928e9fd1af83cdfa38d3edbd4326f": {
+        "name": "UMAD",
+        "symbol": "UMAD",
+        "decimal": 8,
+        "pair": "0xD3e5ca0AFeAE61A24Ff7a9219067e51f4BFDd8d9"
+    },
+    "0xea65976cac7bbd785b134ccee1479f97aab60566": {
+        "name": "MESS",
+        "symbol": "MESS",
+        "decimal": 18,
+        "pair": "0x49d97AA9e2395951E990070436e09e385CAD7f91"
+    },
+    "0xc97d6c52f3add91fa1c5287a453d7444aecbca83": {
+        "name": "DegenZoo",
+        "symbol": "DZOO",
+        "decimal": 18,
+        "pair": "0xD3a9a2EBD567030bB1f1c3fB21a4a203d51c246b"
+    },
+    "0xfb7b4564402e5500db5bb6d63ae671302777c75a": {
+        "name": "DEXTools",
+        "symbol": "DEXT",
+        "decimal": 18,
+        "pair": "0xA29fE6ef9592b5d408cca961D0fb9b1fAF497D6D"
+    },
+    "0xfac77a24e52b463ba9857d6b758ba41ae20e31ff": {
+        "name": "LSD Coin",
+        "symbol": "LSD",
+        "decimal": 18,
+        "pair": "0x3322f41dfa379B6D3050C1e271B0b435b3Ee3303"
+    },
+    "0xae697f994fc5ebc000f8e22ebffee04612f98a0d": {
+        "name": "LGCY Network",
+        "symbol": "LGCY ",
+        "decimal": 18,
+        "pair": "0xDFeA03Ed1eC53116CD6eA45373cBB6E8823eF59D"
+    },
+    "0x40fd72257597aa14c7231a7b1aaa29fce868f677": {
+        "name": "Sora Token",
+        "symbol": "XOR ",
+        "decimal": 18,
+        "pair": "0x01962144D41415cCA072900Fe87Bbe2992A99F10"
+    },
+    "0xadc5d9134fdfed372c9ac4c63d0aed098ad4983b": {
+        "name": "DogShiToken",
+        "symbol": "DOGSHI ",
+        "decimal": 18,
+        "pair": "0x030B20dae42894010CCB0ca63D5550759967c892"
+    },
+    "0x4521c9ad6a3d4230803ab752ed238be11f8b342f": {
+        "name": "Sanin Inu",
+        "symbol": "SANI",
+        "decimal": 18,
+        "pair": "0x394cb9e147b8b288e38615ae04f442a037bcb99f"
+    },
+    "0x03be5c903c727ee2c8c4e9bc0acc860cca4715e2": {
+        "name": "Capsule Coin",
+        "symbol": "CAPS",
+        "decimal": 18,
+        "pair": "0x456fb056a8d118300b624d3aee3864e685ae086c"
+    },
+    "0xd084b83c305dafd76ae3e1b4e1f1fe2ecccb3988": {
+        "name": "Terra Virtua Kolect",
+        "symbol": "TVK",
+        "decimal": 18,
+        "pair": "0x0f5a2eb364d8b722cba4e1e30e2cf57b6f515b2a"
+    },
+    "0x990f341946a3fdb507ae7e52d17851b87168017c": {
+        "name": "Strong",
+        "symbol": "STRONG",
+        "decimal": 18,
+        "pair": "0xc0bf97bffa94a50502265c579a3b7086d081664b"
+    },
+    "0xc669928185dbce49d2230cc9b0979be6dc797957": {
+        "name": "BitTorrent",
+        "symbol": "BIT",
+        "decimal": 18,
+        "pair": "0x2d0ba902badaa82592f0e1c04c71d66cea21d921"
+    },
+    "0xf418588522d5dd018b425e472991e52ebbeeeeee": {
+        "name": "Ethereum Push Notification Service",
+        "symbol": "PUSH",
+        "decimal": 18,
+        "pair": "0xaf31fd9c3b0350424bf96e551d2d1264d8466205"
+    },
+    "0x2e516ba5bf3b7ee47fb99b09eadb60bde80a82e0": {
+        "name": "Eggs",
+        "symbol": "EGGS",
+        "decimal": 18,
+        "pair": "0xc54ba7aabe7164ca2aa092900060fe2ba6eccd8b"
+    },
+    "0xfa5047c9c78b8877af97bdcb85db743fd7313d4a": {
+        "name": "ROOK",
+        "symbol": "ROOK",
+        "decimal": 18,
+        "pair": "0x70ec2fA6Eccf4010eaf572d1C1a7bCbC72DEC983"
+    },
+    "0xc0f9bd5fa5698b6505f643900ffa515ea5df54a9": {
+        "name": "Donut",
+        "symbol": "DONUT",
+        "decimal": 18,
+        "pair": "0x718Dd8B743ea19d71BDb4Cb48BB984b73a65cE06"
+    },
+    "0x4c6ec08cf3fc987c6c4beb03184d335a2dfc4042": {
+        "name": "Paint",
+        "symbol": "PAINT",
+        "decimal": 18,
+        "pair": "0x478893fcBFffC3283FEce2a216229e1c34093980"
+    },
+    "0xbb9bc244d798123fde783fcc1c72d3bb8c189413": {
+        "name": "TheDAO",
+        "symbol": "TheDAO",
+        "decimal": 16,
+        "pair": "0xE1eCaDb5FEC254c2c893C230b935Db30b8FfF0db"
+    },
+    "0xf293d23bf2cdc05411ca0eddd588eb1977e8dcd4": {
+        "name": "Sylo",
+        "symbol": "SYLO",
+        "decimal": 18,
+        "pair": "0x2A66392317698C5818df7A72a58556049f0Ae6f2"
+    },
+    "0x6f222e04f6c53cc688ffb0abe7206aac66a8ff98": {
+        "name": "ROKO",
+        "symbol": "ROKO",
+        "decimal": 18,
+        "pair": "0xE0076d311a4628516d157aD684DBd2dDaDa3DaFE"
+    },
+    "0xa876f27f13a9eb6e621202cefdd5afc4a90e6457": {
+        "name": "Icy",
+        "symbol": "IC",
+        "decimal": 9,
+        "pair": "0xeAabB2eE89221455302D9FFB5325689fF8f0C37B"
+    },
+    "0xaaaaaa20d9e0e2461697782ef11675f668207961": {
+        "name": "Aurora",
+        "symbol": "AURORA",
+        "decimal": 18,
+        "pair": "0x629D22E6eEaC46A11dBC96be93b90aee9309Be4c"
+    },
+    "0x3446dd70b2d52a6bf4a5a192d9b0a161295ab7f9": {
+        "name": "SUDO GOVERNANCE TOKEN",
+        "symbol": "SUDO",
+        "decimal": 18,
+        "pair": "0x1533F61FAcb7cc3A632B12ea9f55D3FBb57309E0"
+    },
+    "0x0aa7efe4945db24d95ca6e117bba65ed326e291a": {
+        "name": "Ojamu Token",
+        "symbol": "OJA",
+        "decimal": 18,
+        "pair": "0x4Bd66f75F73C6D8AC14064537eB32cC420c7aFbe"
+    },
+    "0xb0c7a3ba49c7a6eaba6cd4a96c55a1391070ac9a": {
+        "name": "MAGIC",
+        "symbol": "MAGIC",
+        "decimal": 18,
+        "pair": "0x8C56ca4F7Eb12A7C217bBe36cC427a9dcB66f590"
+    },
+    "0x6c936d4ae98e6d2172db18c16c4b601c99918ee6": {
+        "name": "Life Crypto",
+        "symbol": "LIFE",
+        "decimal": 18,
+        "pair": "0xaEd171a3369e54AFf2601dC92a8d15bBC7e9FA32"
+    },
+    "0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b": {
+        "name": "THE TRUTH",
+        "symbol": "UFO",
+        "decimal": 18,
+        "pair": "0x97E1FcB93ae7267dBAFaD23f7b9AFAA08264CFd8"
+    }
+}
